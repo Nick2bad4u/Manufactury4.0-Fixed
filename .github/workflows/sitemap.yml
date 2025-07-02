@@ -3,10 +3,6 @@ name: GitHub Pages - Generate XML sitemap
 # Trigger the workflow manually or on a schedule (every day at midnight)
 on:
   workflow_dispatch:
-  push:
-    branches: [main]
-  pull_request:
-    branches: [main]
 
 
 
